@@ -1,0 +1,3 @@
+python3 traffic_rl/train.py
+python3 traffic_rl/run_simulation.py
+python3 traffic_rl/compare_performance.py
